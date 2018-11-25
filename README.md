@@ -1,2 +1,4 @@
 # Regression
-Housing Price prediction
+
+# Objective
+Building a model to predict housing prices in Ames
